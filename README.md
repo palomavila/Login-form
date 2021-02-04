@@ -1,3 +1,14 @@
 # Login Form
 
-This is a simple and responsive login form.
+## 👩🏽‍💻Sobre:
+
+Esta é uma tela de login responsiva que utilizou-se de HTML e CSS.
+
+
+## 👩🏽‍💻 Layout:
+
+- Criadora do layout [Giovanna Moeller](https://github.com/giovannamoeller).
+
+
+
+
